@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+nyc/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Spark
+spark-warehouse/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Dataset files
+*.csv
+*.zip
+*.parquet
+
+# Model files
+*.pkl
+
+# System files
+.DS_Store
+Thumbs.db
