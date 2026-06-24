@@ -2,6 +2,7 @@
 
 A scalable big data analytics pipeline built using **Apache Spark** and **PySpark** to process, clean, analyze, and visualize over **213 million New York City Yellow Taxi trip records** spanning **2021 to 2026**.
 
+
 ---
 
 ## Project Overview
@@ -294,6 +295,5 @@ GitHub: https://github.com/Sumanth-Simha
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for additional details.
+**NOTE**
+**Dashboard needs more polishing**
