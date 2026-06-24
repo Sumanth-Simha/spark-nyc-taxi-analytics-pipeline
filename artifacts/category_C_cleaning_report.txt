@@ -1,0 +1,11 @@
+CATEGORY C CLEANING REPORT
+============================================================
+
+Records Before Cleaning : 187,172,893
+Records After Cleaning  : 186,394,753
+Total Removed           : 778,140
+
+BREAKDOWN
+------------------------------------------------------------
+Duration <= 0 mins      : 777,926
+Passenger Count > 8     : 214

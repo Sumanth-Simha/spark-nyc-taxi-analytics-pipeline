@@ -33,3 +33,9 @@ spark-warehouse/
 # System files
 .DS_Store
 Thumbs.db
+
+
+metastore_db/
+derby.log
+
+artifacts/final_dataset/.spark-staging/

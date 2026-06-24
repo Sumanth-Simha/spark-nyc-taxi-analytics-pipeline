@@ -1,0 +1,27 @@
+CATEGORY C INVESTIGATION REPORT
+============================================================
+
+Total Records: 187,172,893
+
+DURATION ANALYSIS
+Duration <= 0 : 777,926
+Duration >24h : 0
+Duration >48h : 0
+
+SPEED ANALYSIS
+Speed >80mph  : 89,382
+Speed >100mph : 82,899
+Speed >120mph : 78,015
+Speed >150mph : 72,781
+
+DISTANCE / FARE
+Distance=0 Fare>0 : 2,160,315
+Distance>0 Fare=0 : 42,878
+
+PASSENGERS
+Passenger > 8 : 214
+
+TIP ANALYSIS
+Tip > Fare : 2,540,777
+Tip >2x    : 2,352,848
+Tip >5x    : 2,291,713

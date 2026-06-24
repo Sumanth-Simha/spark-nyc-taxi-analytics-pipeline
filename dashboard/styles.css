@@ -1,0 +1,59 @@
+/* Entire App */
+.stApp {
+    background-color: #F5F7FA;
+    color: #1E293B;
+}
+
+/* Main container */
+.block-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+/* Sidebar */
+[data-testid="stSidebar"] {
+    background-color: #FFFFFF;
+    border-right: 1px solid #E2E8F0;
+}
+
+/* Headers */
+h1 {
+    color: #0F172A;
+    font-weight: 700;
+}
+
+h2, h3 {
+    color: #1E293B;
+}
+
+/* KPI Cards */
+.metric-card {
+    background: white;
+    padding: 25px;
+    border-radius: 18px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+    text-align: center;
+    border-left: 6px solid #F4B400;
+    margin-bottom: 15px;
+}
+
+.metric-card h3 {
+    color: #0F172A;
+    font-size: 2rem;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.metric-card p {
+    color: #64748B;
+    margin: 0;
+    font-size: 1rem;
+}
+
+/* Chart containers */
+[data-testid="stPlotlyChart"] {
+    background-color: white;
+    padding: 10px;
+    border-radius: 16px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
