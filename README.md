@@ -269,9 +269,9 @@ The project includes an interactive Power BI dashboard providing:
 
 Add dashboard screenshots inside the `images/` folder and include them as shown below:
 
-```markdown
+
 ![Dashboard Overview](images/dashboard_overview.png)
-```
+
 
 ---
 
